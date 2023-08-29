@@ -31,3 +31,5 @@ This is regular text
 **This is bold text**
 _italics look like this_
 
+**bold**
+
