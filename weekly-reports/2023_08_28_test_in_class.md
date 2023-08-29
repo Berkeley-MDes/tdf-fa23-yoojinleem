@@ -20,3 +20,5 @@ summary:
 Reflections:
 
 Speculations:
+
+[Here] (www.naver.com)is a link to Monday's schedule
