@@ -21,4 +21,13 @@ Reflections:
 
 Speculations:
 
-[Here] (www.naver.com)is a link to Monday's schedule
+[Here](www.naver.com)is a link to Monday's schedule
+
+### Summary
+## Summary
+# Summary
+
+This is regular text
+**This is bold text**
+_italics look like this_
+
