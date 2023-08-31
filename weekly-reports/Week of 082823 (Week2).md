@@ -1,8 +1,7 @@
 
-### Week of 08/23/23 (Week2) ###
-## Yoojin Leem ##
+## Week of 08/23/23 (Week2) ##
 
-# Reflections #
+**Reflections**
 - This week, I learned several new tools necessary for crafting a project. I got a grasp of how to utilize Github's markdown, which I had always been indirectly exposed to, and I learned how to set up a basic structure to organize my work logs on Github.
 
 - I attended a basic interface lecture on Rhino and Grasshopper and went through the process of modifying a pre-made design. I feel I still lack a comprehensive understanding of Rhino, so I intend to delve deeper during the long holiday.
