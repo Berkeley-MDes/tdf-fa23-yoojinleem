@@ -8,5 +8,5 @@
 
 - I adjusted designs in Illustrator for laser cutting. To experiment with the outcomes based on colors, I utilized Black, Blue, and Red, and all were successfully applied. Also, since the wooden board we used was thicker than others, I had to modify the insertion points of the original design. It fit well after the adjustments, which was very satisfying.
 
-<img width="600" alt="Cool Phone Stand made of rocks" src="[https://github.com/s-almeda/tdf-template-repo/assets/21287693/bc2f1864-af5a-456d-9a71-e1d80d51190c](https://github.com/Berkeley-MDes/tdf-fa23-yoojinleem/blob/main/image/KakaoTalk_Photo_2023-08-31-12-23-14%20004.jpeg?raw=true![image](https://github.com/Berkeley-MDes/tdf-fa23-yoojinleem/assets/38805663/d379049d-8f0e-47ef-a700-eb05901bc600)https://github.com/Berkeley-MDes/tdf-fa23-yoojinleem/blob/main/image/KakaoTalk_Photo_2023-08-31-12-23-14%20004.jpeg?raw=true![image](https://github.com/Berkeley-MDes/tdf-fa23-yoojinleem/assets/38805663/d379049d-8f0e-47ef-a700-eb05901bc600">
+<img width="600" alt="Cool Phone Stand made of rocks" src="[https://github.com/Berkeley-MDes/tdf-fa23-yoojinleem/blob/main/image/KakaoTalk_Photo_2023-08-31-12-23-10%20001.jpeg?raw=true"]>
 
