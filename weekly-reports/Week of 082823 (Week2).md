@@ -2,6 +2,7 @@
 ## Week of 08/23/23 (Week2) ##
 
 ### Reflections ###
+
 - This week, I learned several new tools necessary for crafting a project. I got a grasp of how to utilize Github's markdown, which I had always been indirectly exposed to, and I learned how to set up a basic structure to organize my work logs on Github.
 
 - I attended a basic interface lecture on Rhino and Grasshopper and went through the process of modifying a pre-made design. I feel I still lack a comprehensive understanding of Rhino, so I intend to delve deeper during the long holiday.
@@ -15,7 +16,9 @@
 
 - However, I realized that not all of these changes occurred solely in Grasshopper, leading to the insight that I need to dive deeper into understanding the tool.
 <br>
+
 ### Speculations ###
+
 - What would a completely new holder look like if I were to design it? I recently purchased a laptop holder to dock my laptop. During the buying process, I found that there were holders that were 'completely fixed' in place, but there were also holders where you could pull up a flat base to adjust the height. As a typical consumer, I used to just contemplate what would be more convenient. Now, as a designer, I can analyze the pros and cons from a different perspective, which I believe will positively influence my future purchases.
 
 - In particular, the adjustable holder I purchased has the advantage of being able to change both its height and angle. However, its fixation isn't as strong, so when typing on the keyboard, the monitor shakes quite a bit. As with any design, there are downsides. Through this purchase and design experience, I realized the potential for crafting more meticulous and human-centered designs in the future.
