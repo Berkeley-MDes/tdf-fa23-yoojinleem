@@ -23,3 +23,12 @@
 - What would a completely new holder look like if I were to design it? I recently purchased a laptop holder to dock my laptop. During the buying process, I found that there were holders that were 'completely fixed' in place, but there were also holders where you could pull up a flat base to adjust the height. As a typical consumer, I used to just contemplate what would be more convenient. Now, as a designer, I can analyze the pros and cons from a different perspective, which I believe will positively influence my future purchases.
 
 - In particular, the adjustable holder I purchased has the advantage of being able to change both its height and angle. However, its fixation isn't as strong, so when typing on the keyboard, the monitor shakes quite a bit. As with any design, there are downsides. Through this purchase and design experience, I realized the potential for crafting more meticulous and human-centered designs in the future.
+
+
+### Summary ###
+
+- This week seemed to be a time of setting the framework. Of course, even this initial step was challenging for me. As I delve deeper into this realm, I anticipate getting lost amid the multitude of techniques and the intricacies of 3D. Still, I hope to overcome future challenges with the lessons I learned this week. It's an exciting week, knowing there's so much more to learn.
+
+- From what I can tell, mastering 3D in just one semester seems nearly impossible. However, I'm inclined to try out various tools simultaneously. I suspect the gaps between these tools won't be too vast. Most of my design friends frequently use Blender, a graphic-based free tool, so I intend to explore it as well.
+
+- Having some experience with Figma, I'd like to teach my peers about symbols and share shortcuts that will be useful as the course progresses. With technology on our side, I believe we can live more efficiently. This prospect feels refreshing and, simultaneously, both exciting and daunting.
