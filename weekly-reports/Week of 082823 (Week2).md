@@ -11,9 +11,9 @@
 <img width="800" alt="striped phone holder" src="https://github.com/Berkeley-MDes/tdf-fa23-yoojinleem/blob/main/image/KakaoTalk_Photo_2023-08-31-12-23-10%20001.jpeg?raw=true">
 <img width="800" alt="printed wood" src="https://github.com/Berkeley-MDes/tdf-fa23-yoojinleem/blob/main/image/KakaoTalk_Photo_2023-08-31-12-23-11%20002.jpeg?raw=true">
 <br>
--Before laser cutting, I learned that one needs to open the lid of the laser cutting machine to set the laser's position.
+- Before laser cutting, I learned that one needs to open the lid of the laser cutting machine to set the laser's position.
 
--However, I realized that not all of these changes occurred solely in Grasshopper, leading to the insight that I need to dive deeper into understanding the tool.
+- However, I realized that not all of these changes occurred solely in Grasshopper, leading to the insight that I need to dive deeper into understanding the tool.
 <br>
 ### Speculations ###
 - What would a completely new holder look like if I were to design it? I recently purchased a laptop holder to dock my laptop. During the buying process, I found that there were holders that were 'completely fixed' in place, but there were also holders where you could pull up a flat base to adjust the height. As a typical consumer, I used to just contemplate what would be more convenient. Now, as a designer, I can analyze the pros and cons from a different perspective, which I believe will positively influence my future purchases.
