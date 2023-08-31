@@ -1,6 +1,7 @@
 
 ## Week of 08/23/23 (Week2) ##
 
+
 ### Reflections ###
 
 - This week, I learned several new tools necessary for crafting a project. I got a grasp of how to utilize Github's markdown, which I had always been indirectly exposed to, and I learned how to set up a basic structure to organize my work logs on Github.
@@ -15,7 +16,7 @@
 - Before laser cutting, I learned that one needs to open the lid of the laser cutting machine to set the laser's position.
 
 - However, I realized that not all of these changes occurred solely in Grasshopper, leading to the insight that I need to dive deeper into understanding the tool.
-<br>
+
 
 ### Speculations ###
 
