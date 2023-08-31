@@ -14,7 +14,7 @@
 -Before laser cutting, I learned that one needs to open the lid of the laser cutting machine to set the laser's position.
 
 -However, I realized that not all of these changes occurred solely in Grasshopper, leading to the insight that I need to dive deeper into understanding the tool.
-
+<br>
 ### Speculations ###
 - What would a completely new holder look like if I were to design it? I recently purchased a laptop holder to dock my laptop. During the buying process, I found that there were holders that were 'completely fixed' in place, but there were also holders where you could pull up a flat base to adjust the height. As a typical consumer, I used to just contemplate what would be more convenient. Now, as a designer, I can analyze the pros and cons from a different perspective, which I believe will positively influence my future purchases.
 
