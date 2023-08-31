@@ -8,4 +8,4 @@
 
 - I adjusted designs in Illustrator for laser cutting. To experiment with the outcomes based on colors, I utilized Black, Blue, and Red, and all were successfully applied. Also, since the wooden board we used was thicker than others, I had to modify the insertion points of the original design. It fit well after the adjustments, which was very satisfying.
 
-![alt text](KakaoTalk_Photo_2023-08-31-12-23-10 001.jpeg)
+![image](KakaoTalk_Photo_2023-08-31-12-23-10 001.jpeg)
