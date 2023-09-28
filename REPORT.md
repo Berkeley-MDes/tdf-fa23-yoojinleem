@@ -9,4 +9,4 @@
 <br><br>
 **▫️Week5 092123 - [LINK](https://github.com/Berkeley-MDes/tdf-fa23-yoojinleem/blob/main/weekly-reports/092123_week5.md)**
 <br><br>
-**▫️Week6 092823 - [LINK](https://github.com/Berkeley-MDes/tdf-fa23-yoojinleem/blob/main/weekly-reports/092823_week6.md)**
+**▫️Week6 092823 - [LINK](https://github.com/Berkeley-MDes/tdf-fa23-yoojinleem/blob/main/weekly-reports/092823_week6.md)** (New)
